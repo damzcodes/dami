@@ -1,0 +1,18 @@
+$black_border: #000000 solid 1px;
+@import url(http://fonts.googleapis.com/css?family=Parisienne);
+
+.jumbotron.jumb{
+  border-top: $black_border;
+  border-bottom: $black_border;
+  margin-top: 30px;
+/*  background-image: url(http://www.killadj.com/blog/wp-content/uploads/2013/10/london-skyline.jpg);
+  background-repeat: no-repeat;
+  background-size: 1554px 354px;*/
+  /*background-color: white;*/
+  
+  .title{
+    font-family: 'Parisienne', cursive;
+    font-size: 15rem;
+    color: black;
+  }
+}
